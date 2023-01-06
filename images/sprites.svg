@@ -1,0 +1,71 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlnsDc="http://purl.org/dc/elements/1.1/" xmlnsCc="http://creativecommons.org/ns#" xmlnsRdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlnsSvg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape" id="menu-icon" version="1.1" inkscapeVersion="0.48.4 r9939" sodipodiDocname="New document 1" viewBox="0 0 310 259.34375">
+    <title id="title3842">Hamburger (Menu) Icon</title>
+    <defs id="defs4"></defs>
+    <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscapePageopacity="0.0" inkscapePageshadow="2" inkscapeZoom="0.54" inkscapeCx="358.20459" inkscapeCy="473.54108" inkscapeDocumentUnits="px" inkscapeCurrentLayer="layer1" showgrid="false" showborder="true" inkscapeShowpageshadow="false" fitMarginTop="5" fitMarginRight="5" fitMarginBottom="5" fitMarginLeft="5" inkscapeWindowWidth="1378" inkscapeWindowHeight="882" inkscapeWindowX="208" inkscapeWindowY="58" inkscapeWindowMaximized="0"></sodipodi:namedview>
+    <metadata id="metadata7">
+      <rdf:RDF>
+        <cc:Work rdfAbout="">
+          <dc:format>image/svg+xml</dc:format>
+          <dc:type rdfResource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+          <dc:title>Hamburger (Menu) Icon</dc:title>
+          <dc:date>2015-06-29</dc:date>
+          <dc:creator>
+            <cc:Agent>
+              <dc:title>Daniel Fowler</dc:title>
+            </cc:Agent>
+          </dc:creator>
+          <dc:rights>
+            <cc:Agent>
+              <dc:title>Public Domain</dc:title>
+            </cc:Agent>
+          </dc:rights>
+          <dc:publisher>
+            <cc:Agent>
+              <dc:title>openclipart.org</dc:title>
+            </cc:Agent>
+          </dc:publisher>
+          <dc:language>en-GB</dc:language>
+          <dc:subject>
+            <rdf:Bag>
+              <rdf:li>icon</rdf:li>
+              <rdf:li>menu</rdf:li>
+              <rdf:li>hamburger</rdf:li>
+              <rdf:li>basic</rdf:li>
+              <rdf:li>simple</rdf:li>
+              <rdf:li>black</rdf:li>
+              <rdf:li>white</rdf:li>
+              <rdf:li>lines</rdf:li>
+              <rdf:li>rounded</rdf:li>
+              <rdf:li>open</rdf:li>
+              <rdf:li>close</rdf:li>
+              <rdf:li>norm</rdf:li>
+              <rdf:li>cox</rdf:li>
+              <rdf:li>star</rdf:li>
+              <rdf:li>xerox</rdf:li>
+            </rdf:Bag>
+          </dc:subject>
+          <cc:license rdfResource="http://creativecommons.org/licenses/publicdomain/"></cc:license>
+          <dc:description>A simple and basic hamburger (menu) icon. It originates from Xerox &amp;quot;Star&amp;quot; workstations of the 1980&amp;apos;s but is now popular to hide/show menus on mobile devices.</dc:description>
+          <dc:contributor>
+            <cc:Agent>
+              <dc:title>Norm Cox</dc:title>
+            </cc:Agent>
+          </dc:contributor>
+        </cc:Work>
+        <cc:License rdfAbout="http://creativecommons.org/licenses/publicdomain/">
+          <cc:permits rdfResource="http://creativecommons.org/ns#Reproduction"></cc:permits>
+          <cc:permits rdfResource="http://creativecommons.org/ns#Distribution"></cc:permits>
+          <cc:permits rdfResource="http://creativecommons.org/ns#DerivativeWorks"></cc:permits>
+        </cc:License>
+      </rdf:RDF>
+    </metadata>
+    <g inkscapeLabel="Layer 1" inkscapeGroupmode="layer" id="layer1" transform="translate(10.015625,-803.03125)">
+      <g id="g3837">
+        <path inkscapeConnectorCurvature="0" id="path3785-0" d="m 19.668179,1032.694 250.646101,0 0,0"></path>
+        <path inkscapeConnectorCurvature="0" id="path3785-0-9" d="m 19.668179,932.694 250.646101,0 0,0"></path>
+        <path inkscapeConnectorCurvature="0" id="path3785-0-4" d="m 19.668179,832.694 250.646101,0 0,0"></path>
+      </g>
+    </g>
+  </symbol>
+</svg>

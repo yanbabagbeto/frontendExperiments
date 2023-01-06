@@ -1,0 +1,73 @@
+:root {
+  --color-primary: #fff;
+  --color-accent: #ed3c57;
+  font-family: "Merriweather", Georgia, serif;
+}
+
+.main__container,
+.main__container * {
+  /* outline: 1px solid red; */
+  padding: 0.3rem;
+}
+
+.main__container {
+  background-color: rgb(32, 31, 31);
+  color: var(--color-primary);
+  text-align: center;
+}
+.photo__gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  display: none;
+}
+
+.photo__card {
+  margin: 2rem auto;
+  border: 3px solid white;
+}
+
+.one {
+  background-image: url(../images/ganvie-medium.jpg);
+}
+
+.two {
+  background-image: url(../images/house.jpg);
+}
+.three {
+  background-image: url(../images/cooking.jpg);
+}
+
+.photo__card__top {
+  max-height: 320px;
+  min-height: 260px;
+  background-position: center;
+  background-size: cover;
+  border-radius: 15px;
+}
+
+h5 {
+  color: #ccc;
+}
+.photo__card__body {
+  padding: 1rem;
+}
+
+.banner {
+  background-image: url(../images/garden.jpg);
+  height: 400px;
+  margin: 3rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.myMojo {
+  font-family: "Merriweather", Georgia, serif;
+  font-size: 3.5vw;
+  font-weight: 900;
+}
+@media screen and (max-width: 900px) {
+  .photo__gallery {
+    grid-template-columns: 1fr;
+  }
+}
